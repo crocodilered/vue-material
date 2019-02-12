@@ -1,4 +1,6 @@
-# test-drawer
+# Vue Material
+
+Project to implement MDC components ( https://material.io/develop/web/ ) with Vue2.
 
 ## Project setup
 ```
@@ -24,6 +26,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
