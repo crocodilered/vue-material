@@ -2,6 +2,10 @@
 
 Project to implement MDC components ( https://material.io/develop/web/ ) with Vue2.
 
+Now implemented:
+- Top App Toolbar
+- Drawer
+
 ## Project setup
 ```
 npm install
